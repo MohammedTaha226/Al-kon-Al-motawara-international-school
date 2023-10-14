@@ -1,0 +1,138 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+}.flaticon-agenda44:before {
+	content: "\e000";
+}
+.flaticon-books30:before {
+	content: "\e001";
+}
+.flaticon-books8:before {
+	content: "\e002";
+}
+.flaticon-boy42:before {
+	content: "\e003";
+}
+.flaticon-briefcases3:before {
+	content: "\e004";
+}
+.flaticon-down123:before {
+	content: "\e005";
+}
+.flaticon-education2:before {
+	content: "\e006";
+}
+.flaticon-email5:before {
+	content: "\e007";
+}
+.flaticon-familiar17:before {
+	content: "\e008";
+}
+.flaticon-float5:before {
+	content: "\e009";
+}
+.flaticon-gear74:before {
+	content: "\e00a";
+}
+.flaticon-gear96:before {
+	content: "\e00b";
+}
+.flaticon-girl81:before {
+	content: "\e00c";
+}
+.flaticon-graduate38:before {
+	content: "\e00d";
+}
+.flaticon-hands46:before {
+	content: "\e00e";
+}
+.flaticon-heart309:before {
+	content: "\e00f";
+}
+.flaticon-house3:before {
+	content: "\e010";
+}
+.flaticon-inspiration:before {
+	content: "\e011";
+}
+.flaticon-instagram12:before {
+	content: "\e012";
+}
+.flaticon-insurance4:before {
+	content: "\e013";
+}
+.flaticon-iris:before {
+	content: "\e014";
+}
+.flaticon-love9:before {
+	content: "\e015";
+}
+.flaticon-magnifying-glass11:before {
+	content: "\e016";
+}
+.flaticon-man7:before {
+	content: "\e017";
+}
+.flaticon-network11:before {
+	content: "\e018";
+}
+.flaticon-phone21:before {
+	content: "\e019";
+}
+.flaticon-phone403:before {
+	content: "\e01a";
+}
+.flaticon-pin56:before {
+	content: "\e01b";
+}
+.flaticon-rounded62:before {
+	content: "\e01c";
+}
+.flaticon-schoolboy1:before {
+	content: "\e01d";
+}
+.flaticon-search99:before {
+	content: "\e01e";
+}
+.flaticon-share27:before {
+	content: "\e01f";
+}
+.flaticon-shield114:before {
+	content: "\e020";
+}
+.flaticon-student1:before {
+	content: "\e021";
+}
+.flaticon-telephone5:before {
+	content: "\e022";
+}
+.flaticon-text70:before {
+	content: "\e023";
+}
+.flaticon-time115:before {
+	content: "\e024";
+}
+.flaticon-user168:before {
+	content: "\e025";
+}
+.flaticon-users4:before {
+	content: "\e026";
+}
+.flaticon-writing11:before {
+	content: "\e027";
+}
+.flaticon-young26:before {
+	content: "\e028";
+}

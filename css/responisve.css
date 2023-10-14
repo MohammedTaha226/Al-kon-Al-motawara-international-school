@@ -1,0 +1,1145 @@
+/*Big Size Screens*/
+@media (max-width: 1199px)
+{
+	.services .services-details a
+	{
+		padding-left:0;
+		text-align:center
+	}
+	
+	.services .services-details h3
+	{
+		margin-left:0;
+		text-align:center
+	}
+	
+	.services .services-details h3:before
+	{
+		left:50%;
+		bottom:-5px;
+		margin-left:-7px
+	}
+	
+	.parents-page .last-parents .parent-details
+	{
+	    width: 87%;
+	}
+	
+	.post-page .container
+	{
+		padding-left:20px;
+		padding-right:20px
+	}
+	
+	.weekly-grade .grade-poster
+	{
+		padding-left:20px;
+	}
+	
+	.contact-us .accordions .accordion .accordion-details li span
+	{
+    	font-size: 12px;
+	}
+	
+}
+
+/*Big Size Screens*/
+@media (min-width: 992px) and (max-width: 1199px)
+{
+	
+	.navbar-default .container
+	{
+	    padding-left: 160px;
+	}
+	
+	.top-bar ul li a i
+	{
+		font-size:19px
+	}
+	
+	.top-bar .logo .logo-img img
+	{
+		max-width:77%
+	}
+	
+	.navbar-default .navbar-nav > li > a
+	{
+		padding:17px 0;
+		font-size:11px
+	}
+	
+	.navbar-default .navbar-nav > li.active > a:before
+	{
+		top:19px
+	}
+	
+	.navbar-default .navbar-nav > li:nth-of-type(5) .sub-menu
+	{
+		left:auto;
+		right:15px;
+	}
+	
+	.footer .footer-top .links ul li a
+	{
+		font-size:10px;
+		padding-left: 13px;
+	}
+	
+	.excellent-details h2
+	{
+		font-size:13px;
+	}
+	
+	.news .post .img-mask span
+	{
+		bottom:15px
+	}
+	
+	.news .post .post-details h2
+	{
+		font-size:14px
+	}
+	
+	.news .post .post-details p
+	{
+		font-size:11px
+	}
+	
+	.news .post .post-details ul li
+	{
+		padding-right:12px
+	}
+	
+	.parents-comments p
+	{
+		padding-left:40px;
+		padding-right:40px
+	}
+	
+	.why-school .why-content .why-details
+	{
+		width:78%
+	}
+	
+	.why-school .why-content .why-details h2
+	{
+		font-size:14px
+	}
+	
+	.why-school .why-content .why-details p
+	{
+	    margin-top: 10px;
+	    font-size: 11px;
+	}
+	
+	.why-school .newletter form input[type="email"]
+	{
+		width:73%
+	}
+	
+	.post-page .head-post .head-details
+	{
+		width:55%
+	}
+	
+	.post-page .head-post .head-details h2
+	{
+		margin-bottom:15px
+	}
+	
+	.post-page p
+	{
+		font-size:13px
+	}
+	
+	.assessment-timetable .schedule:nth-of-type(1)
+	{
+		margin-left: 46px;
+	}
+	
+	.assessment-timetable .schedule:nth-of-type(3)
+	{
+		margin-right: 45px;
+	}
+	
+	.grade .grade-style
+	{
+		padding-top:30px
+	}
+	
+	.grade .grade-style p
+	{
+		font-size:9px
+	}
+	
+	.grade .grade-style p i
+	{
+		margin-right:5px
+	}
+	
+	.grade .grade-style ul li a
+	{
+		width:35px;
+		height:26px;
+		line-height:26px;
+		font-size:13px
+	}
+	
+	.weekly-grade .grade-poster .poster-details h2
+	{
+		font-size:25px
+	}
+	
+	.post-page .tabs li.active
+	{
+	    padding-right: 67px;
+	}
+	
+	.excellent-details ul li:first-of-type
+	{
+	    padding-right: 9px;
+	}
+	
+	.contact-us .accordions .accordion .accordion-details
+	{
+		padding-left:15px;
+	    width: 158px;
+	    padding-left:0;
+	    padding-right:25px
+	}
+	
+	.contact-us .accordions .accordion .accordion-details:last-of-type
+	{
+	    padding-left:0;
+	    padding-right:0
+	}
+	
+	.contact-us .accordions .accordion .accordion-content h4
+	{
+		margin-bottom:20px
+	}
+	
+	.album	.album-photo .album-mask
+	{
+		height:113px
+	}
+	
+	.album-page	.album-photo .album-mask
+	{
+		height:122px
+	}
+	
+}
+
+/* small Screens & tablets & Smart phone */
+@media (max-width: 991px) 
+{
+	.navbar-default .container
+	{
+		padding-left:0
+	}
+	
+	.top-bar .container
+	{
+		padding-left:80px
+	}
+	
+	.slider .slider-details
+	{
+		padding:60px 0;
+		text-align:center
+	}
+	
+	.slider .slider-details .details
+	{
+		margin:0 auto 21px;
+		text-align:left;
+	    padding: 31px 50px;
+	}
+
+	.bx-wrapper .bx-pager 
+	{
+	    bottom: 22px;
+	}
+	
+	.excellent-details
+	{
+	    margin-bottom: 20px;
+	}
+	
+	.news
+	{
+		margin-bottom:30px
+	}
+	
+	.video-library .video-style
+	{
+		margin-bottom:20px;
+	}
+	
+	.school-details .details h2
+	{
+		font-size:22px
+	}
+	
+	.why-school .newletter form
+	{
+		margin-top:20px
+	}
+
+	.parents-page .last-parents
+	{
+	    padding: 34px 20px 54px 30px;
+	}
+	
+	.post-page .head-post .post-mask,
+	.post-page .head-post .head-details
+	{
+		float:none
+	}
+	
+	.post-page .head-post .post-mask img
+	{
+		margin:auto
+	}
+	
+	.post-page .head-post .head-details
+	{
+		padding-left:0;
+		width:100%
+	}
+	
+	.post-page .head-post .head-details h2
+	{
+		text-align:center;
+		margin-top:15px
+	}
+	
+	.post-page .post-comments .comment
+	{
+		padding-left:20px;
+		padding-right:20px;
+		margin:0
+	}
+	
+	.assessment-timetable .schedule:nth-of-type(1),
+	.assessment-timetable .schedule:nth-of-type(3)
+	{
+		margin:0
+	}
+	
+	.grade .grade-style
+	{
+		margin-bottom:40px
+	}
+	
+	.weekly-grade .grade-poster .poster-details h2
+	{
+		font-size:21px
+	}
+	
+	.weekly-grade .grade-details
+	{
+		margin-top:20px;
+	}
+	
+	.contact-us .accordions .accordion .accordion-title
+	{
+		font-size:17px;
+		border-bottom:1px solid transparent
+	}
+	.contact-us .accordions .accordion.active .accordion-title
+	{
+		border-color:#EBEBEB
+	}
+	.contact-us .accordions .accordion .accordion-title:before
+	{
+		top:27px
+	}
+	
+	.album-page .container
+	{
+		padding-left:20px;
+		padding-right:20px
+	}
+	
+}
+
+/* Small Screens */
+@media (min-width: 768px) and (max-width: 991px) 
+{
+	
+	.top-bar .logo img 
+	{
+	    margin-top: 15px;
+	    max-width: 70%;
+	}
+	
+	.top-bar .logo .logo-img img
+	{
+		max-width:35%
+	}
+	.navbar-default .navbar-nav > li
+	{
+		padding:0 15px
+	}
+
+	.navbar-default .navbar-nav > li:first-of-type
+	{
+		padding-left:20px
+	}
+	
+	.navbar-default .navbar-nav > li > a
+	{
+		font-size:11px;
+		padding:20px 0
+	}
+	
+	.navbar-default .navbar-nav > li.active > a:before
+	{
+		top:22px
+	}
+	
+	.navbar-default .navbar-nav > li:nth-of-type(5) .sub-menu
+	{
+		left:auto;
+		right: -60px;
+	}
+	
+	.navbar-default .navbar-nav > li .sub-menu
+	{
+	    padding: 35px 0 15px 28px;
+	}
+	
+	.footer .footer-top .links ul li
+	{
+		width:50%
+	}
+	
+	.footer .footer-top .contact-footer .address li a i
+	{
+	    width: 25px;
+	    height: 25px;
+	    line-height: 25px;
+	}
+	
+	.footer .footer-top .contact-footer
+	{
+		padding-left:0
+	}
+	
+	.footer .footer-top .contact-footer .col-xs-6
+	{
+		padding-right:0
+	}
+	
+	.footer .footer-top .contact-footer p
+	{
+		font-size:10px
+	}
+	
+	.why-school .why-content i
+	{
+	    width: 45px;
+	    height: 45px;
+	    line-height: 45px;
+	}
+	
+	.why-school .why-content .why-details
+	{
+		width:71%;
+		padding-left:11px
+	}
+	
+	.why-school .why-content .why-details h2
+	{
+		font-size:13px
+	}
+	
+	.why-school .why-content .why-details p
+	{
+		margin-top: 8px;
+	    font-size: 11px;
+	}
+	
+	.parents-page .last-parents .parent-details
+	{
+	    width: 86%;
+	}
+	
+	.parents-comments.parents-page p
+	{
+		padding:45px 20px 56px;
+	}
+	
+	.post-page .post-comments .comment .comment-details
+	{
+	    width: 83%;
+	}
+	
+	.assessment-timetable .schedule
+	{
+		width:220px
+	}
+	
+	.post-page .tabs li
+	{
+		font-size:11px
+	}
+	
+	.post-page .tabs li:before
+	{
+		left:10px
+	}
+	
+	.post-page .tabs li.active 
+	{
+    	padding-right: 35px;
+	}
+	
+	.post-page .tabs li.active:before
+	{
+	    width: 36px;
+	    font-size: 18px;
+	}
+	
+	.contact-us .call-details
+	{
+		padding-left:23px
+	}
+	
+	.contact-us .accordions .accordion .accordion-content
+	{
+		padding-left:29px;
+		padding-right:29px
+	}
+	
+	.contact-us .accordions .accordion .accordion-details
+	{
+		width:50%;
+		margin-bottom:40px;
+		padding-right:30px
+	}
+	
+	.contact-us .accordions .accordion .accordion-details:last-of-type
+	{
+		text-align:center;
+		width:100%;
+		margin-bottom:0
+	}
+	
+	.contact-us .accordions .accordion .accordion-details:last-of-type h4:before
+	{
+		left:calc(50% - 15px);
+		bottom:-5px
+	}
+	
+	.album	.album-photo .album-mask
+	{
+		height:200px
+	}
+	
+	.album-page	.album-photo .album-mask
+	{
+		height:114px
+	}
+	
+}
+
+/* Mobile & Tablets */
+@media (max-width: 767px) 
+{
+	
+	.hr-style
+	{
+		left:2.5%;
+		width:95%
+	}
+	
+	.breadcrumb .breadcrumb-ul .container
+	{
+		border-radius:0
+	}
+	
+	.top-bar .logo .logo-img img
+	{
+		max-width:30%
+	}
+	
+	.top-bar ul li a
+	{
+		width: 35px;
+		height: 35px;
+    	line-height: 35px;
+    	font-size: 20px;
+	}
+	
+	.top-bar ul li input
+	{
+		height:35px
+	}
+	
+	.footer .footer-top .photo-album
+	{
+		margin-top:30px
+	}
+	
+	.services .services-details
+	{
+		padding:60px 0;
+		border-bottom:1px solid #2B4064
+	}
+	
+	.services .services-details.none-padding
+	{
+		padding-top:0
+	}
+	
+	.services .services-details.none-padding-border
+	{
+		padding-bottom:0;
+		border-bottom:none
+	}
+	
+	.school-details .details
+	{
+		text-align:center
+	}
+	
+	.school-details .details h2:before
+	{
+		left:calc(50% - 25px);
+	}
+	
+	.school-details .details .learn-more
+	{
+		margin-left:auto;
+		margin-right:auto
+	}
+	
+	.excellent-students .the-slider-control
+	{
+		position: static;
+		width:176px;
+		margin:25px auto 0
+	}
+	
+	.footer .footer-top .contact-footer
+	{
+		padding-left:0;
+		margin-top:30px
+	}
+	
+	.why-school .col-sm-4
+	{
+		border:none;
+		box-shadow:none
+	}
+	
+	.why-school .col-sm-4:not(:last-of-type)
+	{
+		border-bottom:1px solid #EBEBEB
+	}
+	
+	.about-page .col-sm-8
+	{
+		padding-right:15px
+	}
+	
+	.about-page img
+	{
+		margin-top:20px
+	}
+	
+	.assessment-timetable .schedule
+	{
+		width:100%;
+		margin-bottom:20px!important;
+		float:none;
+	}
+	
+	.assessment-timetable .schedule:nth-of-type(2)
+	{
+		margin:0
+	}
+	
+	.post-page .tabs
+	{
+		margin-top:30px
+	}
+	
+	.post-page .tabs li
+	{
+		font-size:12px
+	}
+	.post-page .tabs li.active 
+	{
+	    padding-right: 66px;
+	}
+	
+	.excellent-page .col-sm-3
+	{
+		padding-left:15px
+	}
+	
+	.excellent-page .excellent-content .views
+	{
+		margin-bottom:30px
+	}
+	
+	.excellent-page .excellent-img
+	{
+		margin-top:20px
+	}
+	
+	.contact-us .call
+	{
+		margin-bottom:30px
+	}
+	
+	.contact-us .address-map iframe
+	{
+		height:250px
+	}
+	
+	.contact-us .accordions .accordion .accordion-content
+	{
+		padding-right:20px;
+		padding-left:20px
+	}
+	
+	.contact-us .accordions .accordion .accordion-details:not(:last-of-type)
+	{
+		margin-bottom:40px;
+	}
+	
+	.item-details .col-sm-4
+	{
+		padding-left:0;
+		margin-top:20px
+	}
+	
+}
+
+/* Tablets */
+@media (min-width:480px) and (max-width: 767px)
+{
+	
+	.news .post .post-details h2
+	{
+		font-size:13px
+	}
+	
+	.news .post .post-details p
+	{
+		font-size:11px
+	}
+	
+	.news .post .post-details ul li
+	{
+		padding-right:11px
+	}
+	
+	.why-school .newletter .newletter-txt i
+	{
+		font-size:45px
+	}
+	
+	.why-school .newletter .newletter-txt .txt
+	{
+		padding-left: 15px;
+		width: 87%;
+	}
+	
+	.why-school .newletter .newletter-txt .txt h2
+	{
+		margin-bottom:8px;
+		font-size:11px
+	}
+	
+	.why-school .newletter form input[type="email"]
+	{
+		width:70%
+	}
+	
+	.parents-page .last-parents .parent-details
+	{
+		width:75%
+	}
+	
+	.post-page .post-comments .comment 
+	{
+		padding-top:45px
+	}
+	
+	.post-page .post-comments .comment .comment-details
+	{
+		width:79%
+	}
+	
+	.post-page .post-comments .comment .comment-details span
+	{
+		right:12px
+	}
+	
+	.contact-us .call-details
+	{
+		padding-left:23px
+	}
+	
+	.contact-us .accordions .accordion .accordion-content
+	{
+		padding-left:29px;
+		padding-right:29px
+	}
+	
+	.contact-us .accordions .accordion .accordion-details
+	{
+		width:50%;
+		margin-bottom:40px;
+		padding-right:30px
+	}
+	
+	.contact-us .accordions .accordion .accordion-details:last-of-type
+	{
+		text-align:center;
+		width:100%;
+		margin-bottom:0
+	}
+	
+	.contact-us .accordions .accordion .accordion-details:last-of-type h4:before
+	{
+		left:calc(50% - 15px);
+		bottom:-5px
+	}
+	
+	.album	.album-photo .album-mask
+	{
+		height:105px
+	}
+	
+	.album-page	.album-photo .album-mask
+	{
+	  	height: 252px;
+	}
+
+}
+
+/* Mobile */
+@media (max-width: 479px) 
+{
+	
+	.weekly-plans .tabs .col-xs-6,
+	.excellent-students .col-xs-6,
+	.news .post .col-xs-4,
+	.news .post .col-xs-8,
+	.album	.col-xs-6,
+	.video-library .col-xs-6,
+	.call-us .form-call .col-xs-6,
+	.post-page .send-comment .form-comment .col-xs-6,
+	.grade .col-xs-6
+	{
+		width:100%
+	}
+	
+	.post-page .send-comment .form-comment input[type="text"]
+	{
+		margin-bottom:15px
+	}
+	
+	.news .post .col-xs-4
+	{
+		padding-left:15px
+	}
+	
+	.breadcrumb h2
+	{
+		font-size:17px
+	}
+	
+	.footer .footer-top .links ul li
+	{
+		width:50%
+	}
+	
+	.footer .footer-button 
+	{
+		text-align:center
+	}
+	
+	.footer .footer-button a,
+	.footer .footer-button p
+	{
+		font-size:11px;
+		float:none
+	}
+	
+	.slider .slider-details .details
+	{
+		text-align:center
+	}
+	
+	.slider .slider-details .details h2
+	{
+		font-size:15px;
+		margin-bottom:10px
+	}
+
+	.news .post .post-details
+	{
+		padding-top:20px;
+		padding-right:20px
+	}
+	
+	.news .post .post-details h2
+	{
+		font-size:16px
+	}
+	
+	.news .post .post-details p
+	{
+		font-size:12px
+	}
+	
+	.parents-comments .the-slider-control
+	{
+		position: static;
+		width:176px;
+		margin:25px auto 0
+	}
+	
+	.comments-call h2
+	{
+		font-size:25px;
+	}
+	
+	.parents-comments p
+	{
+	    padding: 40px 20px 56px;	
+	}
+
+	.why-school .why-content i[class^="flaticon-"]
+	{
+	    font-size: 21px;
+	    float:none;
+	    margin:auto;
+	    display:block;
+	    margin-bottom:20px
+	}
+	
+	.why-school .why-content .why-details
+	{
+		width:100%;
+		float:none;
+		text-align:center
+	}
+	
+	.why-school .why-content .why-details h2
+	{
+		font-size:14px
+	}
+	
+	.why-school .why-content .why-details p
+	{
+		font-size:12px;
+		margin-top: 6px;
+	}
+	
+	.why-school .newletter .newletter-txt
+	{
+		text-align:center
+	}
+	
+	.why-school .newletter .newletter-txt i,
+	.why-school .newletter .newletter-txt .txt
+	{
+		float:none;
+		padding-left:0
+	}
+	
+	.why-school .newletter .newletter-txt i
+	{
+		margin-bottom:10px
+	}
+	
+	.why-school .newletter form input[type="email"],
+	.why-school .newletter form input[type="submit"]
+	{
+		width:100%;
+		float:none
+	}
+	
+	.parents-page .last-parents .icon-parents
+	{
+		float:none;
+		margin:auto;
+	}
+	
+	.parents-page .last-parents .parent-details
+	{
+		width:100%;
+		float:none;
+		padding-left:0;
+		text-align:center
+	}
+	
+	.parents-page .last-parents .parent-details h3
+	{
+		text-align:center;
+		margin-top:30px
+	}
+	
+	.parents-page .last-parents .parent-details span
+	{
+		margin-bottom:30px
+	}
+	
+	.news-page .container
+	{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	
+	.post-page .head-post .head-details h2
+	{
+		font-size:16px
+	}
+	
+	.post-page .post-footer ul
+	{
+		display:block
+	}
+	
+	.post-page .post-footer ul li 
+	{
+		float:none;
+		margin-bottom:7px;
+		margin-right:0!important;
+		display:block
+	}
+	
+	.post-page .post-footer ul li a
+	{
+		width:100%;
+		text-align:center
+	}
+	
+	.post-page .post-footer ul li a i
+	{
+		margin-left:18px
+	}
+	
+	.post-page .post-comments .comment
+	{
+		text-align:center;
+		padding-top:45px
+	}
+	
+	.post-page .post-comments .comment img
+	{
+		float:none
+		
+	}
+	
+	.post-page .post-comments .comment .comment-details
+	{
+		float:none;
+		width:100%;
+		padding-left:0;
+		padding-top:20px
+	}
+	
+	.about-page .about-details
+	{
+		padding:30px 20px 32px 32px
+	}
+	
+	.grade .title p
+	{
+		font-size:11px
+	}
+	
+	.weekly-grade .grade-poster
+	{
+		text-align:center;
+		padding-left:0
+	}
+	
+	.weekly-grade .grade-poster i,
+	.weekly-grade .grade-poster .poster-details
+	{
+		float:none;
+		padding:0
+	}
+	
+	.weekly-grade .grade-poster i
+	{
+		margin-bottom:10px
+	}
+	
+	.post-page .open-tabs
+	{
+		padding-right:20px;
+		padding-left:37px
+	}
+		
+	.contact-us .call-details ul li
+	{
+		width:100%
+	}
+	
+	.contact-us .call-details
+	{
+		padding-left:20px
+	}
+	
+	.contact-us .call-details .address
+	{
+		padding-left:10px
+	}
+	.contact-us .call-details .address ul li
+	{
+		margin-bottom:5px
+	}
+	
+	.contact-us .accordions .accordion .accordion-content 
+	{
+	    padding-right: 35px;
+	    padding-left: 35px;
+	}
+	
+	.contact-us .accordions .accordion .accordion-title
+	{
+		font-size:14px;
+		padding-right:34px;
+		padding-left:25px
+	}
+	
+	.contact-us .accordions .accordion .accordion-title:before
+	{
+	    left: 7px;
+    	top: 25px;
+	}
+	
+	.contact-us .accordions .accordion .accordion-title:after
+	{
+	    right: 12px;
+    	top: 19px;
+	}
+	
+	.contact-us .accordions .accordion .accordion-details
+	{
+		text-align:center;
+		width:100%;
+		float:none;
+		padding-left:0;
+		margin-bottom:0
+	}
+	
+	.contact-us .accordions .accordion .accordion-details h4:before
+	{
+		left:calc(50% - 15px);
+		bottom:-5px
+	}
+	
+}
